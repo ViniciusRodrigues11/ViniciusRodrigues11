@@ -23,7 +23,7 @@
 
 #### Estatistícas
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusRodrigues11)](https://github.com/anuraghazra/Vinicius-Rodrigues)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusRodrigues11)](https://github.com/Vinicius-Rodrigues)
 
 ---
 
