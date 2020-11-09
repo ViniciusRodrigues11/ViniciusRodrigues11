@@ -4,6 +4,7 @@
 
 - Estudante de Sistemas da Informação 
 - Apaixonado por programação e por videogame
+- Aluno do Bootcamp GoStack
 
 ---
 
