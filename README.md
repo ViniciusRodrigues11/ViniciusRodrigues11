@@ -32,7 +32,6 @@
 <a href="https://www.linkedin.com/in/vinicius-rodrigues-dev/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br/>
 <a href="mailto:viniciusrodriguess.dev@gmail.com">
   <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
