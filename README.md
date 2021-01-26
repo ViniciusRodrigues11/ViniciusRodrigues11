@@ -25,7 +25,17 @@
 
 #### Estatistícas
 
+<p align="center">
+  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusRodrigues11)](https://github.com/ViniciusRodrigues11)
+
+</p>
+
+<p align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRodrigues11&layout=compact)](https://github.com/ViniciusRodrigues11)
+
+</p>
 
 ---
 
