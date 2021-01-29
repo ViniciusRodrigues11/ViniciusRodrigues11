@@ -1,5 +1,7 @@
 # Vinicius-Rodrigues
 
+🌍 <a href="vinirodrigues.com">vinirodrigues.com</a>
+
 #### Sobre mim
 
 - Estudante de Sistemas da Informação 
