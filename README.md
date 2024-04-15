@@ -1,13 +1,11 @@
 # Vinicius-Rodrigues
 
-🌍 <a href="vinirodrigues.com">vinirodrigues.com</a>
-
 #### Sobre mim
 
 - Pós-graduado em Desenvolvimento de aplicativos móveis
 - Graduado em Sistemas da Informação
 - Apaixonado por programação e por videogame
-- Aluno do Bootcamp GoStack
+- Mais de 2 anos atuando como desenvolvedor FullStack
 
 ---
 
