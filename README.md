@@ -6,7 +6,6 @@
 - Graduado em Sistemas da Informação
 - Apaixonado por programação e por videogame
 - Mais de 2 anos atuando como desenvolvedor FullStack
-
 ---
 
 #### Tecnologias
