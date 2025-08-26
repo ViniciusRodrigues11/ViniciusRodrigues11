@@ -1,59 +1,76 @@
-<h1 align="left">Olá!</h1>
+<h1 align="left">👋 Olá, eu sou o Vinicius!</h1>
 
-###
+<a href="vinirodrigues.com" target="_blank">vinirodrigues.com</a>
 
-<p align="left">Eu me chamo Vinicius, sou desenvolvedor fullstack com foco em JS/TS.</p>
+<p align="left">
+  Sou desenvolvedor <strong>Fullstack</strong> com foco em <strong>JavaScript</strong> e <strong>TypeScript</strong>.  
+  Trabalho tanto no <em>front-end</em> quanto no <em>back-end</em>, sempre buscando criar aplicações escaláveis, bem estruturadas e com boa experiência de uso.  
+</p>
 
-###
+---
 
-<h2 align="left">Sobre mim</h2>
+## 🚀 Sobre mim
 
-###
+- 👨‍💻 **Fullstack Developer** com mais de **3 anos de experiência** em projetos web de diferentes portes.  
+- 🎓 **Bacharel em Sistemas de Informação**.  
+- 💼 Já atuei desde suporte técnico até desenvolvimento fullstack, passando por integrações complexas e sistemas legados.  
+- ☁️ Certificação: **AWS Cloud Practitioner**.  
+- 🔍 Interesses:  
+  - Desenvolvimento web moderno (React, Next.js, Vue, Node.js)  
+  - **APIs REST/GraphQL**  
+  - **Otimização de performance** em aplicações web  
+  - Boas práticas de arquitetura e **DevOps** com Docker e CI/CD  
+- 📈 Sempre em busca de aprender novas tecnologias e aplicar soluções que realmente tragam valor.  
 
-<p align="left">👨‍💻 Fullstack Developer com experiência em desenvolvimento front-end e back-end.<br>🚀 Linguagens: JavaScript e TypeScript são minhas principais ferramentas de trabalho.<br>🎓 Bacharel em Sistemas de Informação.<br>💼 Experiência: 3 anos de atuação como desenvolvedor, trabalhando em projetos diversificados e dinâmicos.<br>🔍 Interesses: Desenvolvimento web, APIs, otimização de desempenho e novas tecnologias.<br>🏆 Certificado AWS Cloud Practitioner</p>
+---
 
-###
+## 💡 O que você encontra nos meus repositórios
 
-<h6 align="center">Conecte-se comigo!</h6>
+- Projetos pessoais onde coloco em prática estudos de **Go, Node.js e front-end moderno**.  
+- Ferramentas criadas para resolver problemas reais do dia a dia (ex: otimização de imagens, automações, extensões de navegador).  
+- Exemplos de **boas práticas** em organização de código, testes e pipelines.  
+- Experimentos e POCs com tecnologias que estou aprendendo no momento.  
 
-###
+---
 
-<div align="center">
+## 🔗 Conecte-se comigo
+
+<p align="center">
   <a href="https://www.linkedin.com/in/vinicius-rodrigues-dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<h2 align="left">Minhas skills</h2>
-
-###
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </div>
-
-###
